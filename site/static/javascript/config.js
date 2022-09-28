@@ -1,0 +1,1 @@
+var SubDomain = 'bestofall'; var SiteID = '8F7D268F-2861-406D-93F4-85DD0A73A723'; var host = 'https://api.eraconnect.net';
